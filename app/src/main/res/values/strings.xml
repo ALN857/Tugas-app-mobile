@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="text_one">text one</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_two">text two</string>
+    <string name="text_three">text three</string>
+    <string name="pemograman">pemograman</string>
+    <string name="sejarah_pemrograman">Sejarah Pemrograman</string>
+    <string name="artikel">Membahas tentang pemrograman maka Anda juga harus mengetahui tentang perkembangannya. Dengan memahami sejarahnya maka Anda bisa mengetahui sumber terbentuknya teknologi sampai peranan pemrograman yang semakin dibutuhkan. Pemrograman terbentuk sebagai hasil dari penemuan yang dilakukan oleh para ahli akan sebuah metode tertentu.
+        \n\n\n\n
+
+Pemrograman  sudah ada sejak tahun 1822. Pada tahun tersebut sebuah penemuan baru akan sebuah mesin yang mampu mengolah data ditemukan oleh Charles Babbage. Mesin tersebut diberi nama Difference Engine. Selama bertahun-tahun mesin tersebut terus dikembangkan dan mampu menghasilkan sebuah output. Penemuan ini diteruskan secara turun menurun ke setiap generasi.
+        \n\n\n\n
+
+Seiring berjalannya waktu pemrograman terus berkembang dan bahkan pada tahun 1854 diciptakan sebuah logika mengenai hubungan relasi sebuah komponen aritmatika seperti lebih kecil dan lebih besar. Logika ini masih digunakan hingga sekarang untuk menyusun sebuah sistem. Pada tahun 1925 mulai ditemukannya tentang sistem komputasi digital.
+        \n\n\n\n
+
+Pada tahun 1945 terjadilah sebuah insiden besar yang membuat sistem digital menjadi rusak. Setelah melakukan penelitian akhirnya ditemukan bug pada sistem tersebut. Bug inilah yang sampai sekarang dikenal sebagai gangguan yang bisa membuat kerja sistem menjadi tidak sesuai dan menyimpan. Hal ini bisa mengakibatkan sistem tidak berjalan dengan baik, bahkan beberapa masalah bisa muncul akibat hal tersebut.
+        \n\n\n\n
+
+Semakin berkembangnya pemrograman, saat ini fungsinya semakin beragam. Dan saat ini terdapat dua konsep terbesar dari pemrograman yang disebut dengan layanan internet dan mobile platform. Pemrograman terus dikembangkan untuk memberikan kemudahan akses pengguna untuk segala kebutuhannya. Hingga saat ini hampir seluruh sistem sudah dikembangkan oleh pemrograman.</string>
+    <string name="head2">Pemrograman</string>
+    <string name="subhead2">Jenis jenis pemrograman</string>
+    <string name="artikel2">
+        <b>Pemrograman web : </b>
+        \n
+Fungsi utama dari jenis pemrograman ini adalah menyusun sebuah fungsional sebuah website. Tentu semua orang sudah pernah membuka website dan bisa melihat bahwa terdapat beberapa website yang nampak bagus dan ada juga yang terlihat sederhana. Perbedaan ini disebabkan oleh jenis pemrograman yang menyusunnya.
+
+Dengan menggunakan pemrograman, maka sebuah website bisa berjalan dengan interaktif serta dinamis. Hal ini tentu akan berpengaruh pada sistem pemberian informasi pada pengguna. Biasanya bahasa pemrograman yang digunakan untuk menyusun website adalah HTM, PHP, Javascript, CSS dan JSP.
+        \n\n\n\n
+
+        <b>Pemrograman aplikasi : </b>
+        \n
+Jenis pemrograman ini akan berfokus pada hasil untuk menyusun sebuah aplikasi yang bisa digunakan untuk melakukan pekerjaan ataupun mengatasi masalah yang lainnya. Pemrograman ini berfokus pada satu tujuan saja, misalnya aplikasi Microsoft Office yang berfokus pada pengolahan data.
+        Microsoft Office hanya akan dioperasikan untuk masalah pengolahan data saja. Hal ini membuat aplikasi berfokus pada sebuah tujuan tertentu saja. Terdapat banyak sekali aplikasi yang dibuat untuk bisa memenuhi setiap kebutuhan pengguna. Bahkan jenis pemrograman ini berkembang dengan cara mengikuti pola perkembangan pemikiran para pengguna.
+        \n\n\n\n
+        <b>Pemrograman sistem operasi : </b>
+        \n
+Jenis pemrograman yang satu ini bisa dikatakan sebagai komponen yang penting karena digunakan sebagai jenis pemrograman yang membentuk sebuah perangkat. Sistem operasi harus diinstall terlebih dahulu pada sebuah perangkat untuk bisa berfungsi dengan baik. Jika tidak ada sistem operasi, maka seluruh perangkat tidak bisa memiliki fungsi apapun.
+
+Saat ini sistem operator yang populer adalah Windows karena bisa digunakan untuk perangkat apapun. Namun terdapat juga sistem operasi lain seperti Linux dan Ios yang digunakan untuk menyusun perangkat tertentu. Penggunaan sistem operasi dan hardware harus disesuaikan agar bisa berjalan dengan sesuai.
+        \n\n\n\n
+        <b> Pemrograman game : </b>
+Bisa dikatakan ini merupakan jenis pemrograman yang paling sulit, karena harus menggabungkan antara desain visual dan juga sintaks untuk menjalankan algoritmanya. Sebuah game harus memiliki alur cerita yang jelas serta menarik tentang bagaimana prosesnya, apa saja karakternya dan apa jenis tantangan yang diberikan.
+
+Hal tersebut harus direncanakan dengan baik agar bisa membuat sebuah game yang bisa disukai oleh masyarakat luas. Bahasa pemrograman untuk menyusun game terdiri dari Java, C dan juga C++. Beberapa bahasa ini cukup kompleks untuk dipelajari sehingga harus memfokuskan diri untuk melakukan observasi langsung dengan menciptakan sebuah game.
+
+</string>
+    <string name="head3">Pemrograman</string>
+    <string name="subhead3">Contoh Bahasa pemrograman</string>
+    <string name="isi3"><b>PHP</b>\n
+Bahasa pemrograman yang satu ini banyak digunakan untuk menyusun script pada website. Script akan menjalan sebuah alur yang dituliskan oleh sebuah programmer untuk menentukan sistem kerja dari sebuah website. Bahasa ini bisa digunakan secara gratis, namun Anda membutuhkan pemahaman tentang script yang akan dituliskan pada pemrograman ini.
+
+Bahasa pemrograman ini sudah berhasil menyusun berbagai website besar seperti WordPress, Facebook dan lain sebagainya. Bahasa pemrograman ini pertama kali dikembangkan pada tahun 1995. PHP akan mengumpulkan seluruh script menjadi satu kesatuan untuk bisa memprosesnya menjadi satu data yang akan menghadirkan informasi pada website.
+    \n\n\n\n
+        <b>Javascript</b>\n
+Bahasa ini awalnya dikembangkan pertama kali oleh Netscape. Javascript digunakan untuk menyusun sebuah pembuatan dan pengembangan sebuah website. Bahasa ini membantu Anda untuk menciptakan website yang menarik dan juga interaktif. Banyak perusahaan besar yang menggunakan Javascript untuk perkembangan website resminya.
+
+Seiring perkembangan zaman, Javascript ini dipadukan dengan berbagai bahasa lain seperti CSS dan juga HTML. Dengan begitu Anda bisa leluasa untuk membuat website yang semakin menawan. Sebuah website harus memiliki responsive yang bagus dan cepat agar bisa memberikan informasi yang akurat.
+    \n\n\n\n
+        <b>Pemrograman C++</b>\n
+Bahasa ini merupakan hasil pengembangan dari bahasa pemrograman C. Jika membahas tentang sintaks, kedua bahasa ini memiliki kesamaan tentang aturan penulisan sintaks. Namun keduanya memiliki perbedaan yaitu dari caranya menyelesaikan masalah. Bahasa C akan membagi masalah yang diterima kedalam sub-sub kecil masalah.
+
+Hal ini membuat bahasa bahasa C seringkali dikatakan sebagai program prosedural. Sedangkan bahasa C++ membagi masalah berdasarkan atas class. Bahasa C++ sangat populer digunakan untuk perusahaan software besar seperti Winamp, Adobe, dan Firefox.
+    \n\n\n\n
+        <b>Visual Basic</b>\n
+Visual Basic dikembangkan oleh perusahaan yang sudah cukup terkenal yaitu Microsoft. Bahasa ini mengedepankan IDE visual, dimana para programmer bisa membuat tampilan desain dari aplikasi yang dibuat dengan mudah. Bahkan pada Visual Basic Anda bisa melakukan drag and drop untuk penambahan setiap komponen.
+
+Visual Basic merupakan turunan dari pemrograman Basic yang sudah dikembangkan jauh sebelumnya. Bahasa pemrograman yang satu ini cocok digunakan untuk para pemula karena mudah untuk dioperasikan. Anda juga bisa dengan mudah untuk melakukan pengaturan terhadap komponen pada aplikasi yang sedang dibuat.
+    \n\n\n\n
+        <b>Java</b>\n
+Sejak dahulu bahasa Java sudah populer digunakan untuk menyusun berbagai sistem dan juga aplikasi. Bahasa pemrograman ini sudah ada sejak tahun 1991 dan terus dikembangkan. Java populer karena memiliki berbagai keunggulan yang berbeda. Java memiliki sistem OOP yang membuat programmer bisa lebih mudah untuk menyusun sebuah sintaks.
+
+Selain itu bahasa program Java juga memiliki koleksi library yang lumayan lengkap. Sehingga ketika dibutuhkan maka programmer hanya perlu memanggilnya dengan menggunakan sintaks yang sesuai. Library ini bisa membantu kinerja sebuah sistem atau aplikasi yang sedang dibangun. Saat ini bahkan Java sudah bisa menyusun beberapa aplikasi mobile.
+        \n\n\n\n
+        <b>Python</b>\n
+Python bisa dikatakan merupakan bahasa tingkat tinggi. Python digunakan untuk membentuk berbagai aplikasi berbasis web dan juga mobile. Bahasa ini memiliki sintaks yang pasti dan mudah dipahami. Dengan begitu maka Anda tidak akan sulit membacanya. Biasanya bahasa pemrograman ini akan diberikan untuk para pemula.
+
+Dengan memahami logika saat menyusun aplikasi menggunakan bahasa ini, maka Anda bisa lebih mudah memahami algoritma pada bahasa pemrograman yang lainnya. Sehingga bahasa ini seringkali dijadikan sebagai pembelajar dasar para programmer. Bahasa ini digunakan untuk menyusun beberapa aplikasi untuk pengembang seperti Google, Yahoo dan NASA.
+        \n\n\n\n
+        <b>Pemrograman C </b> \n
+Bahan pemrograman tertua ini sudah dikembangkan sejak tahun 70-an. Pemrograman C menjadi induk dari berbagai bahasa pemrograman besar yang lainnya seperti Java, C++, C#. Namun memang beberapa bahasa pemrograman tersebut lebih detail dalam membahas beberapa komponen. Beberapa bahasa tersebut terbentuk akibat hasil penemuan bahasa C.
+
+Beberapa bahasa yang dihasilkan dari bahasa C digunakan untuk bisa mengatasi penyusun sintaks yang lebih kompleks dan terarah. Menjadi bahasa yang sangat penting, membuat banyak instansi pendidikan yang memberikan pengajaran tentang bahasa C ini pada masa awal pembelajaran.</string>
+</resources>
